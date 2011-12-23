@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
-  <name>dasml-archetype</name>
+  <name>Archetype for DAS plugin projects</name>
 
   <build>
     <extensions>
