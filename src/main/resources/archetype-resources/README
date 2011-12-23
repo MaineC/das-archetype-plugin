@@ -1,0 +1,9 @@
+D(atameer) A(nalytics) S(olution) plugin for Apache Mahout integration.
+
+See http://wiki.datameer.com/documentation/display/DAS12/Using+the+Plug-in+SDK for more information on plugins in DAS.
+
+
+To build the project:
+   * download das from http://www.datameer.com
+   * install dap-sdk${version}.jar to your local maven repo
+   * mvn clean install
