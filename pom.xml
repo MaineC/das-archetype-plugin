@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>de.isabeldrost</groupId>
-  <artifactId>dasml-archetype</artifactId>
+  <artifactId>das-archetype-plugin</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
